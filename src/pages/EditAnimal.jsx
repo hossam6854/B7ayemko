@@ -232,8 +232,10 @@ const EditAnimal = () => {
             <option value="حصان">حصان</option>
             <option value="طيور">طيور</option>
             <option value="ارنب">ارنب</option>
-            <option value="فراخ">فراخ</option>
+            <option value="دجاج">دجاج</option>
             <option value="بط">بط</option>
+            <option value="كلب">كلب</option>
+            <option value="قط">قط</option>
             <option value="حيوانات أليفة">حيوانات أليفة</option>
           </select>
         </div>

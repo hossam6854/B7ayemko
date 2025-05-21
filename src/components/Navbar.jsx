@@ -9,8 +9,8 @@ const navLinks = [
   { to: "/", label: "الرئيسية" },
   { to: "/addAnimal", label: "إضافة إعلان" },
   { to: "/myAds", label: "إعلاناتي" },
+  { to: "/deliveryOrdersAdmin", label: "طلبات التوصيل لمنتجاتي" },
   { to: "/myDeliveryOrders", label: "طلباتي" },
-  { to: "/deliveryOrdersAdmin", label: "طلبات التوصيل" },
   { to: "/afterSales", label: "خدمات ما بعد البيع" },
 ];
 
